@@ -1,0 +1,9 @@
+ESP 32-mini datasheet
+
+IO9: 25 I/O GPIO9, HS1_DATA2, U1RXD, SD_DATA2
+IO10: 26 I/O GPIO10, HS1_DATA3, U1TXD, SD_DATA3
+
+
+L06 datasheet
+Yellow (Yellow): RX     GPIO10
+Green (Orange): TX      GPIO9
